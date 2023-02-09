@@ -1,5 +1,7 @@
 #### OpenAI Docker development server
 
+Add API key to /src/.env
+
 Build infrastructure locally with docker-compose-dev, connect to localhost:8000 in web browser.
 
 
