@@ -1,0 +1,13 @@
+*.pyc
+*.db
+*.sqlite*
+
+src/tmp
+/__pycache__
+/.vscode
+/.venv
+/.devcontainer
+
+Notes-do-not-sync.md
+
+secrets.json
