@@ -1,6 +1,7 @@
 *.pyc
 *.db
 *.sqlite*
+.env
 
 src/tmp
 /__pycache__
